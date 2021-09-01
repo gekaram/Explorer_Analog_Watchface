@@ -1,0 +1,9 @@
+<drawables>
+    <bitmap id="LauncherIcon" filename="launcher_icon.png" />
+    <bitmap id="Cap" filename="second_cap.png" dithering="none">
+        <palette disableTransparency="false">
+            <color>555555</color>
+            <color>000000</color>
+        </palette>
+    </bitmap>
+</drawables>
