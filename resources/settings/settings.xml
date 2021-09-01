@@ -1,0 +1,35 @@
+<settings>
+
+	<setting propertyKey="@Properties.appVersion"
+		title="@Strings.AppVersionTitle">
+		<settingConfig type="alphaNumeric" readonly="true" />
+	</setting>
+
+	<setting propertyKey="@Properties.backgroundColor"
+		title="@Strings.BackgroundColorTitle"
+		prompt="@Strings.BackgroundColorPrompt">
+		<settingConfig type="list">
+			<listEntry value="0">@Strings.Black</listEntry>
+			<listEntry value="16777215">@Strings.White</listEntry>
+		</settingConfig>1
+	</setting>
+
+	<setting propertyKey="@Properties.SecHandEnable" title="@Strings.SecHandEnableTitle">
+        <settingConfig type="boolean" />
+    </setting>
+    
+    
+    	<setting propertyKey="@Properties.BatteryWarningLevel"
+		title="@Strings.BatteryWarningLevel">
+		<settingConfig type="numeric" />
+	</setting>
+	
+
+	<setting propertyKey="@Properties.ConnectionWarningOn"
+		title="@Strings.ConnectionWarningOn">
+		<settingConfig type="boolean" />
+	</setting>
+    
+
+
+</settings>

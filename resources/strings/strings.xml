@@ -1,0 +1,13 @@
+<strings>
+    <string id="AppName">ExplorerII</string>
+    <string id="InternalVersion">1.0.7</string>
+    <string id="AppVersionTitle">Application Version</string>
+    <string id="BackgroundColorTitle">Background color</string>
+    <string id="BackgroundColorPrompt">Select background color</string>
+    <string id="Black">Black</string>
+    <string id="White">White</string>
+    <string id="SecHandEnableTitle">Second Hand On</string>
+    <string id="ConnectionWarningOn">Phone Connection Warning</string>
+    <string id="BatteryWarningLevel">Battery Warning Level in %</string>
+
+</strings>
