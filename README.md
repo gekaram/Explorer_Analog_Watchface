@@ -5,8 +5,6 @@ Analog watchface for Garmin's wearable lineup.
 
 ![](screenshots/COVER.jpg)
 
-![](screenshots/SCREENSHOT 00.jpg)
-
 ![](screenshots/SCREENSHOT 01.jpg)
 
 ![](screenshots/SCREENSHOT 02.jpg)
